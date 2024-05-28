@@ -67,6 +67,7 @@ local_settings.py
 *.sqlite
 *.sqlite3.db
 *.db
+*.requirements.txt
 
 # Flask stuff:
 instance/
