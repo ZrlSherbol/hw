@@ -5,7 +5,7 @@ from db.database import Database
 from pathlib import Path
 
 
-database = Database(Path('__file__').parent / 'db.sqlite')
+database = Database(Path('__file__').parent / 'db1.sqlite')
 
 
 load_dotenv()
